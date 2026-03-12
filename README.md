@@ -15,11 +15,29 @@
 
 ### Tech I work with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,nextjs,tailwind,nodejs,python,fastapi,graphql&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue&theme=light" title="Vue.js" alt="Vue" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" title="Next.js" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" title="FastAPI" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=light" title="GraphQL" alt="GraphQL" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,supabase,firebase,postgres,git,figma,vite,linux,vscode&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=light" title="Supabase" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" title="Figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=light" title="Vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" alt="VS Code" />
 </p>
 
 ---
