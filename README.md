@@ -16,28 +16,28 @@
 ### Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue&theme=light" title="Vue.js" alt="Vue" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" title="TypeScript" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light" title="JavaScript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" title="Next.js" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" title="Tailwind CSS" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" title="FastAPI" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=graphql&theme=light" title="GraphQL" alt="GraphQL" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue&amp;theme=light" width="40" title="Vue.js" alt="Vue.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=react&amp;theme=light" width="40" title="React" alt="React" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts&amp;theme=light" width="40" title="TypeScript" alt="TypeScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&amp;theme=light" width="40" title="JavaScript" alt="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=light" width="40" title="Next.js" alt="Next.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=light" width="40" title="Tailwind CSS" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=light" width="40" title="Node.js" alt="Node.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&amp;theme=light" width="40" title="Python" alt="Python" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=light" width="40" title="FastAPI" alt="FastAPI" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=graphql&amp;theme=light" width="40" title="GraphQL" alt="GraphQL" /></a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" title="AWS" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=supabase&theme=light" title="Supabase" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" title="Figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=vite&theme=light" title="Vite" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" alt="VS Code" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws&amp;theme=light" width="40" title="AWS" alt="AWS" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker&amp;theme=light" width="40" title="Docker" alt="Docker" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=light" width="40" title="Supabase" alt="Supabase" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase&amp;theme=light" width="40" title="Firebase" alt="Firebase" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=light" width="40" title="PostgreSQL" alt="PostgreSQL" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="40" title="Git" alt="Git" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma&amp;theme=light" width="40" title="Figma" alt="Figma" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite&amp;theme=light" width="40" title="Vite" alt="Vite" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux&amp;theme=light" width="40" title="Linux" alt="Linux" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=light" width="40" title="VS Code" alt="VS Code" /></a>
 </p>
 
 ---
