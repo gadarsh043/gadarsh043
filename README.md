@@ -20,13 +20,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25px" /> About
 
-I care about **software development** end to end — reliable systems, clear APIs, and interfaces that feel intuitive — from shipping seller tooling at scale to solo-built AI products. I hold an **MS in Computer Science from UT Dallas** (May 2026) and have **4+ years** building web apps and GenAI experiences.
+I care about **software development** end to end — reliable systems, clear APIs, and interfaces that feel intuitive — from shipping seller tooling at scale to solo-built AI products. I hold an **MS in Computer Science from UT Dallas** (2026) and have **4+ years** building web apps and GenAI experiences.
 
 When I am not coding, I am often deep in movies and series, creating for [YouTube](https://www.youtube.com/@g_adarsh_sonu), or catching up with friends.
 
-- 🎓 Teaching **GenAI Product Building** at UT Dallas
 - 🚀 Shipping [Rahify](https://rahify.com): AI travel planner with streaming and payments
-- 🔍 Open to full-time **software engineering / GenAI** roles starting May 2026
+- 💪 Built [InvestIQ](https://invest-iq-kuber.netlify.app/): Portfolio management for beginner investors.
+- 🔍 Open to full-time **software engineering / GenAI** roles starting July 2026
 
 ---
 
