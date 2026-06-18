@@ -96,6 +96,7 @@ When I am not coding, I am often deep in movies and series, creating for [YouTub
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
 | **Rahify** | AI travel planner. Solo-built SaaS with SSE streaming, flight search, maps, payments, zero-hallucination itineraries | React, FastAPI, Supabase, Groq/Llama 3, Stripe | [rahify.com](https://rahify.com) |
+| **InvestIQ** | AI investment portfolio manager, Goldman Sachs/UTD Hackathon 5th Place | Next.js 16, Supabase, Groq, Turborepo, Plasmo | [Live](invest-iq-kuber.netlify.app) |
 | **FitTrackAI** | Health dashboard with real-time sync and AI insights | React, Firebase, Chart.js, Vite | [Live](https://fit-track-ai.netlify.app/) · [Code](https://github.com/gadarsh043/Fit-Track-AI) |
 | **VSCode Assist** | Automates Jest test generation, 73% faster validation | TypeScript, VSCode Extension API | [Code](https://github.com/gadarsh043/Assist-VsCode-Plugin) |
 | **Rizzing App** | AI response generator with OCR from profile screenshots | React, Node.js, OpenAI API, Tesseract.js | [Live](https://rizzing-frontend.netlify.app) · [Code](https://github.com/gadarsh043/rizzing-backend) |
