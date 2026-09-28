@@ -1,7 +1,7 @@
 <h1 align="center">Adarsh Gella</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&delay=0&speed=30&color=C9D1D9&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+GenAI;Data+Scientist+%C2%B7+Analytics;Software+Development+%C2%B7+AI+%26+ML;LLMs+%C2%B7+MLOps+%C2%B7+Production+Systems;4%2B+Years+Building+Software+%26+AI+Products;MS+Computer+Science+%40+UT+Dallas;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&delay=0&speed=30&color=C9D1D9&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Full+Stack+%C2%B7+GenAI;AI+Software+Engineer+%40+LocalPRO+Realty;3%2B+Years+Shipping+Production+Software;MS+Computer+Science+%40+UT+Dallas;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +20,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25px" /> About
 
-I care about **software development** end to end — reliable systems, clear APIs, and interfaces that feel intuitive — from shipping seller tooling at scale to solo-built AI products. I hold an **MS in Computer Science from UT Dallas** (2026) and have **4+ years** building web apps and GenAI experiences.
+I care about **software development** end to end: reliable systems, clear APIs, and interfaces that feel intuitive. I've shipped seller tooling at scale, solo-built AI products, and I'm now the sole engineer on a production platform for a 110+ agent brokerage. **MS in Computer Science, UT Dallas** (2026), with **3+ years** building web apps and GenAI experiences.
 
 When I am not coding, I am often deep in movies and series, creating for [YouTube](https://www.youtube.com/@g_adarsh_sonu), or catching up with friends.
 
+- 🏠 Building **LocalPRO Hub** at LocalPRO Realty: listings, transactions, and revenue ops for 110+ real estate agents
 - 🚀 Shipping [Rahify](https://rahify.com): AI travel planner with streaming and payments
-- 💪 Built [InvestIQ](https://invest-iq-kuber.netlify.app/): Portfolio management for beginner investors.
-- 🔍 Open to full-time **software engineering / GenAI** roles starting July 2026
+- 🎨 Building [Reskin](https://github.com/gadarsh043/reskin): an agent skill that makes AI-generated UIs look designed
+- 🔍 Open to full-time **software engineering / GenAI** roles
 
 ---
 
@@ -46,6 +47,7 @@ When I am not coding, I am often deep in movies and series, creating for [YouTub
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Llama-0668E1?style=flat-square&logo=meta&logoColor=white" />
 
 **Web & application**
@@ -81,12 +83,12 @@ When I am not coding, I am often deep in movies and series, creating for [YouTub
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px" /> Impact
 
 ```
+110+       agents running listings and payouts on LocalPRO Hub
+5          tools replaced by one platform, on ~$65/month of infrastructure
+441        MLS fields pre-filled automatically from property search
 10,000+    sellers adopted a shipping UI I built at Quinbay
-2-5x       faster builds after leading Vue 2 → Vue 3 migration
+2-5x       faster builds after leading the Vue 2 to Vue 3 migration
 73%        reduction in QA validation time via custom VSCode plugin
-20%        sales increase from streamlined seller workflows
-50+        active users on FitTrackAI
-100+       daily profiles processed on Rizzing App
 ```
 
 ---
@@ -95,8 +97,10 @@ When I am not coding, I am often deep in movies and series, creating for [YouTub
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
-| **Rahify** | AI travel planner. Solo-built SaaS with SSE streaming, flight search, maps, payments, zero-hallucination itineraries | React, FastAPI, Supabase, Groq/Llama 3, Stripe | [rahify.com](https://rahify.com) |
-| **InvestIQ** | AI investment portfolio manager, Goldman Sachs/UTD Hackathon 5th Place | Next.js 16, Supabase, Groq, Turborepo, Plasmo | [Live](https://invest-iq-kuber.netlify.app/) · [Code](https://github.com/gadarsh043/InvestIQ) |
-| **FitTrackAI** | Health dashboard with real-time sync and AI insights | React, Firebase, Chart.js, Vite | [Live](https://fit-track-ai.netlify.app/) · [Code](https://github.com/gadarsh043/Fit-Track-AI) |
+| **LocalPRO Hub** | Production platform for a real estate brokerage: listing pipeline, MLS pre-fill, voice intake, BrokerMint automation, commission and revenue share dashboards | React, TypeScript, FastAPI, Supabase, Groq, Whisper, n8n | [Chrome extension](https://chromewebstore.google.com/detail/localpro-hub-matrix-assis/mndchhiiandfgnodiaakeppofhpodffl) |
+| **Rahify** | AI travel planner. Solo-built SaaS with SSE streaming, flight search, maps, payments, zero-hallucination itineraries | React, FastAPI, Supabase, Groq/Llama 3, LemonSqueezy | [rahify.com](https://rahify.com) · [Code](https://github.com/gadarsh043/rahi-ai) |
+| **RoleLens AI** | RAG resume-to-job fit analyzer with structured fit reports | React, FastAPI, ChromaDB, sentence-transformers, Groq | [Live](https://rolelens.adarshgella.com/) · [Code](https://github.com/gadarsh043/RoleLens-AI) |
+| **Reskin** | Agent skill for Claude Code, Cursor and Codex that redesigns codebases without breaking them; 69-check quality gate, 22 themes | Agent Skills, CSS (OKLCH) | [Code](https://github.com/gadarsh043/reskin) |
+| **InvestIQ** | AI investment portfolio manager, Goldman Sachs/UTD Hackathon 5th Place | Next.js, Supabase, Groq, Turborepo, Plasmo | [Live](https://invest-iq-kuber.netlify.app/) · [Code](https://github.com/gadarsh043/InvestIQ) |
+| **AdWeather Agent** | MCP server + LangChain tool-calling agent for weather-driven ad recommendations | FastAPI, LangChain, MCP, Docker | [Code](https://github.com/gadarsh043/AdWeather-Agent) |
 | **VSCode Assist** | Automates Jest test generation, 73% faster validation | TypeScript, VSCode Extension API | [Code](https://github.com/gadarsh043/Assist-VsCode-Plugin) |
-| **Rizzing App** | AI response generator with OCR from profile screenshots | React, Node.js, OpenAI API, Tesseract.js | [Live](https://rizzing-frontend.netlify.app) · [Code](https://github.com/gadarsh043/rizzing-backend) |
